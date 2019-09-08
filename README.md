@@ -10,3 +10,10 @@ https://github.com/hardikvasa/google-images-download</br>
 >activate (env)</br>
 >pip install xxxx</br>
 
+## normal installation
+>google_images_download
+
+## if need to download more than 100 images-download
+>chromedriver
+>
+
