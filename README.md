@@ -14,6 +14,9 @@ https://github.com/hardikvasa/google-images-download</br>
 >google_images_download
 
 ## if need to download more than 100 images-download
->chromedriver
->
+>chromedriver(only need to download, and refer to this file)
+>Selenium(install)
+
+#more details
+>This is a command line python program to search keywords/key-phrases on Google Images and optionally download images to your computer. You can also invoke this script from another python file.This is a small and ready-to-run program. No dependencies are required to be installed if you would only want to download up to 100 images per keyword. If you would want more than 100 images per keyword, then you would need to install Selenium library along with chromedriver. Detailed instructions in the troubleshooting section.
 
