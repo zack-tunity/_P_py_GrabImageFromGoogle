@@ -1,6 +1,9 @@
 #4 this project
 downloads
 extracted
+combined
+_extracted_bak
+_dowanloads_bak
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
